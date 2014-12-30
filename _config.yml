@@ -1,2 +1,3 @@
-require 'redcarpet'
-markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, fenced_code_blocks:true)
+safe: true
+lsi: false
+source: your top-level directory
