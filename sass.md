@@ -20,4 +20,7 @@ Done, now SASS is on your machine! So, let's play with it. Open your text editor
 In your __Ruby CMD__,
 ```
 $>sass test.scss
+.red { 
+	color: red; }
 ```
+It will output the reformatted CSS we wrote above. Let's move on.
