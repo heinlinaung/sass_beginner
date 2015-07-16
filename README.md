@@ -4,4 +4,4 @@ Make this based on my experience.
 
 Drop __[me](mailto:heinlinaung6891@gmail.com)__ an email in case you want the book.
 
-Link : heinlinaung.github.io/sass_beginner
+[Visit the site!](https://heinlinaung.github.io/sass_beginner)
